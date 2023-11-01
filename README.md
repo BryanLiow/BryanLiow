@@ -72,7 +72,7 @@
 
 ### 📈 My GitHub Stats
 
-[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanLiow&show_icons=true&theme=radical)](https://github.com/BryanLiow)
+[![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanLiow&show_icons=true&theme=gruvbox_light&count_private=true)](https://github.com/BryanLiow)
 
 ---
 
