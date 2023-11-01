@@ -26,7 +26,7 @@
     <th width="20%">👨‍💻 <b>Languages</b></th>
     <th width="20%">🌐 <b>Web Technologies</b></th>
     <th width="20%">🛢 <b>DB Technologies</b></th>
-    <th width="20%">🔧 <b>Tools</b></th>
+    <th width="20%">🔧 <b>Others</b></th>
     <!---
     <th width="20%">🚀 <b>Cloud Platforms</b></th>
     --->
@@ -39,6 +39,7 @@
       <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
       <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
     </td>
     <td>
       <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -46,7 +47,7 @@
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
       <!---JS--->
       <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express.js&logoColor=white" />
+      <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
       <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
       <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
       <!---PHP--->
@@ -59,6 +60,7 @@
     </td>
     <td>
       <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+      <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&style=flat&logo=gnu-bash&logoColor=white" />
     </td>
     <!---
     <td>
@@ -67,13 +69,19 @@
     --->
   </tr>
 </table>
+<p align="center">
+  <a href="https://github.com/BryanLiow">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BryanLiow&theme=gruvbox_light&langs_count=8&layout=compact" alt="Bryan's Language Stats">
+  </a>
+</p>
+
+
 
 ---
-
+<!---
 ### 📈 My GitHub Stats
 
 [![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanLiow&show_icons=true&theme=gruvbox_light&count_private=true)](https://github.com/BryanLiow)
-
 ---
 
 ### 🎨 Check out my Portfolio!
@@ -83,6 +91,7 @@ I regularly update my portfolio with new projects I've completed. Feel free to e
 [<img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor&logoColor=white" alt="Portfolio" target="_blank" />](https://bryanliow.netlify.app/)
 
 ---
+--->
 
 ### 🔗 Let's connect!
 
