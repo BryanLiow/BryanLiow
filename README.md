@@ -88,7 +88,7 @@
 
 I regularly update my portfolio with new projects I've completed. Feel free to explore and see what I've been working on lately!
 
-[<img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor&logoColor=white" alt="Portfolio" target="_blank" />](https://bryanliow.netlify.app/)
+[<img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor&logoColor=white" alt="Portfolio" target="_blank" />](https://bryanliow.com/)
 
 ---
 --->
@@ -106,7 +106,7 @@ I would love to hear from you! Whether you have a question or just want to say h
 
 - 📧 **Email:** [bryan.zy.liow@gmail.com](mailto:bryan.zy.liow@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/zeyanliow](https://www.linkedin.com/in/zeyanliow)
-- 🌐 **Portfolio:** [https://bryanliow.netlify.app/](https://bryanliow.netlify.app/)
+- 🌐 **Portfolio:** [https://bryanliow.com/](https://bryanliow.com/)
 
 _Looking forward to connecting with you! 💌_
 
