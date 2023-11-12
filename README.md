@@ -24,8 +24,9 @@
 <table width="100%">
   <tr>
     <th width="20%">👨‍💻 <b>Languages</b></th>
-    <th width="20%">🌐 <b>Web Technologies</b></th>
-    <th width="20%">🛢 <b>DB Technologies</b></th>
+    <th width="20%">🌐 <b>Web2.0</b></th>
+    <th width="20%">🌐 <b>Web3.0</b></th>
+    <th width="20%">🛢 <b>DB</b></th>
     <th width="20%">🔧 <b>Others</b></th>
     <!---
     <th width="20%">🚀 <b>Cloud Platforms</b></th>
@@ -40,6 +41,7 @@
       <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
       <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
       <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" />
+      <img alt="Motoko" src="https://img.shields.io/badge/-Motoko-0b0822?style=flat&logo=internetcomputer&logoColor=513e90" />
     </td>
     <td>
       <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -53,6 +55,9 @@
       <img alt="Yii2" src="https://img.shields.io/badge/-Yii2-00605C?style=flat&logo=yii&logoColor=white" />
     </td>
     <td>
+      <img alt="Internet Computer" src="https://img.shields.io/badge/Internet%20Computer-FFFFFF?style=flat&logo=internetcomputer&logoColor=513e90" />
+    </td>
+    <td>
       <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
@@ -61,7 +66,6 @@
       <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
       <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
     </td>
-
     <!---
     <td>
       <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
