@@ -1,4 +1,4 @@
-### Hi there, I'm Bryan Liow! 👋😄 (/ˈbraɪ.ən/ /ˈljaʊ/)
+### Hi there, I'm Bryan Liow!
 
 👨‍💻 I'm a software engineer living in Dundalk, Ireland.
 
